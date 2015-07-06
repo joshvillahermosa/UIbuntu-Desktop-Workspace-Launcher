@@ -1,0 +1,1300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"angular",
+				"angularThinksterIoApp"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"head",
+				"head	Tag"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fil",
+				"fileExt"
+			],
+			[
+				"file",
+				"filteredContents"
+			],
+			[
+				"co",
+				"countLines"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"get",
+				"getElementByXpath"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"im",
+				"imgArg"
+			],
+			[
+				"ima",
+				"imageSize"
+			],
+			[
+				"post",
+				"postID"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"late",
+				"latestComment"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"la",
+				"latestComment"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"a",
+				"arguments"
+			],
+			[
+				"ng-bi",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"ng-bin",
+				"ng-bind-html-unsafe	AngularJS"
+			],
+			[
+				"ng-bind-html",
+				"ng-bind-html-unsafe	AngularJS"
+			],
+			[
+				"ng-h",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"ng",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-s",
+				"ng-src	AngularJS"
+			],
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"ng-",
+				"ng-click	AngularJS"
+			],
+			[
+				"h",
+				"h6	Tag"
+			],
+			[
+				"hea",
+				"head	Tag"
+			],
+			[
+				"countDown",
+				"countDownInterval"
+			],
+			[
+				"countdown",
+				"countDownInterval"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"com",
+				"console.log(message);"
+			],
+			[
+				"JSO",
+				"toJSON"
+			],
+			[
+				"val",
+				"val	.val()"
+			],
+			[
+				"exte",
+				"extend"
+			],
+			[
+				"cons",
+				"console.log(message);"
+			],
+			[
+				"border",
+				"border-top-color"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"initial",
+				"initialize"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"col-lg-",
+				"col-lg-12"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"Nav",
+				"NavCollapse"
+			],
+			[
+				"A",
+				"ArticleType"
+			],
+			[
+				"Arti",
+				"ArticleType"
+			],
+			[
+				"Pi",
+				"Pictures"
+			],
+			[
+				"Pro",
+				"Project"
+			],
+			[
+				"Use",
+				"User"
+			],
+			[
+				"Art",
+				"Article"
+			],
+			[
+				"Ar",
+				"Article"
+			],
+			[
+				"P",
+				"Picture"
+			],
+			[
+				"fec",
+				"fetch"
+			],
+			[
+				"Curr",
+				"CurrentProjects"
+			],
+			[
+				"Pr",
+				"Project"
+			],
+			[
+				"Res",
+				"Results"
+			],
+			[
+				"PRo",
+				"Progress"
+			],
+			[
+				"L",
+				"Learning"
+			],
+			[
+				"Friends",
+				"FriendsList"
+			],
+			[
+				"Bio",
+				"Bio"
+			],
+			[
+				"Mai",
+				"MailHeader"
+			],
+			[
+				"Mail",
+				"MailMessage"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"DB",
+				"DBController"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"bck",
+				"background-repeat"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"Demo",
+				"Demographics"
+			],
+			[
+				"Coll",
+				"CollegeData"
+			],
+			[
+				"Inst",
+				"InstNm"
+			],
+			[
+				"return",
+				"returnType"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"quer",
+				"queryEmployee"
+			],
+			[
+				"open",
+				"openCSV"
+			],
+			[
+				"fgetc",
+				"fgetcsv"
+			],
+			[
+				"v",
+				"video	<video>"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"PDO",
+				"PDOException"
+			],
+			[
+				"hire",
+				"hireDate"
+			],
+			[
+				"div",
+				"div	<div>"
+			],
+			[
+				"field",
+				"fieldNames"
+			],
+			[
+				"del",
+				"delimiter"
+			],
+			[
+				"fget",
+				"fgetcsv"
+			],
+			[
+				"sessio",
+				"session_destroy"
+			],
+			[
+				"btn",
+				"btn-danger"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"is",
+				"isset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pulseApp.sh",
+			"settings":
+			{
+				"buffer_size": 94,
+				"line_ending": "Unix",
+				"name": "# !/bin/bash"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"form",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emm",
+				"Emmet: Merge Lines"
+			],
+			[
+				"em",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"prje",
+				"Project: Save As"
+			],
+			[
+				"server",
+				"SFTP: Setup Server…"
+			],
+			[
+				"edit se",
+				"SFTP: Edit Server…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"BROW",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brows",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"syntax ",
+				"Set Syntax: LESS"
+			],
+			[
+				"synt css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"synt",
+				"Set Syntax: HTML"
+			],
+			[
+				"setup ser",
+				"SFTP: Setup Server…"
+			],
+			[
+				"ser",
+				"SFTP: Setup Server…"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ed",
+				"SFTP: Edit Server…"
+			],
+			[
+				"serv",
+				"SFTP: Browse Server…"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"borws",
+				"SFTP: Browse Server…"
+			],
+			[
+				"bros",
+				"SFTP: Browse Server…"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"formt",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"dele",
+				"SFTP: Delete Server…"
+			],
+			[
+				"edi",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sft",
+				"SFTP: Edit Server…"
+			],
+			[
+				"borw",
+				"SFTP: Browse Server…"
+			],
+			[
+				"WORD",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"synt php",
+				"Set Syntax: PHP"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"fomr",
+				"Format Code"
+			],
+			[
+				"brwos",
+				"SFTP: Browse Server…"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"code",
+				"Format Code"
+			],
+			[
+				"brows ser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brose",
+				"SFTP: Browse Server…"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"broe",
+				"SFTP: Browse Server…"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"package co",
+				"Package Control: Discover Packages"
+			],
+			[
+				"broew",
+				"SFTP: Browse Server…"
+			],
+			[
+				"browes",
+				"SFTP: Browse Server…"
+			],
+			[
+				" brows",
+				"SFTP: Browse Server…"
+			],
+			[
+				"bo",
+				"SFTP: Browse Server…"
+			],
+			[
+				"b",
+				"SFTP: Browse Server…"
+			],
+			[
+				"set up ",
+				"SFTP: Setup Server…"
+			],
+			[
+				"bor",
+				"SFTP: Browse Server…"
+			],
+			[
+				"coor",
+				"Color picker"
+			],
+			[
+				"BROWS",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brows ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Famo.us/client/components/famous/views/famous.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Famo.us/client/app/main/main.less",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Famo.us/client/app/main/main.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Famo.us/client/app/app.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Famo.us/.bowerrc",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Famo.us/package.json",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Node/pluralsight-gulp/README.md",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Node/pluralsight-gulp/.gitignore",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Node/pluralsight-gulp/Gulp.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Node/pluralsight-gulp/bower.json",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Node/pluralsight-expressjs/.gitignore",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Node/webdevelopment_expressjs/.gitignore",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers/directives.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers/isoscopes.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/views/isoscopes.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers/binding.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/services/finance.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/views/databinding.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/views/directives.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers/filters.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/views/filters.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers/about.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers/forms.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/views/forms.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/views/introctrl.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/views/classbinding.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers/invoicectrl.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/Gruntfile.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/views/buisinesslogic.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/node_modules/karma/node_modules/log4js/lib/connect-logger.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/node_modules/grunt-autoprefixer/CHANGELOG",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/index.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/views/sftp-config.json",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/README.md",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Yeoman/app/scripts/app.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Yeoman/app/scripts/controllers/main.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Yeoman/test/karma.conf.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Yeoman/test/spec/controllers/main.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/Yeoman/app/views/main.html",
+		"/tmp/sublime-sftp-browse-1423778899/vagrant-mondev_MonimusDevbox_ShowdMe/home/nodejs/nodeapps/showdme/public/admin-tools/views/manage-users.html",
+		"/home/josh/.config/sublime-text-3/Packages/User/sftp_servers/vagrant-mondev_MonimusDevbox_ShowdMe",
+		"/tmp/sublime-sftp-browse-1423778664/vagrant-mondev_MonimusDevbox_ShowdMe/home/nodejs/nodeapps/showdme/public/admin-tools/views/manage-users.html",
+		"/tmp/sublime-sftp-browse-1423777477/vagrant-mondev_MonimusDevbox_ShowdMe/home/nodejs/nodeapps/showdme/public/admin-tools/views/manage-users.html",
+		"/tmp/sublime-sftp-browse-1423762592/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signup-success.html",
+		"/tmp/sublime-sftp-browse-1423762570/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signup.html",
+		"/tmp/sublime-sftp-browse-1423762544/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signup-complete.html",
+		"/tmp/sublime-sftp-browse-1423685010/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signup.html",
+		"/tmp/sublime-sftp-browse-1423684444/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/messages.less",
+		"/tmp/sublime-sftp-browse-1423683332/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/messages/views/list.html",
+		"/tmp/sublime-sftp-browse-1423682207/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/sessions/views/user-cards/teacher-card.html",
+		"/tmp/sublime-sftp-browse-1423681923/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/sessions/views/user-cards/student-card.html",
+		"/tmp/sublime-sftp-browse-1423680138/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/layout.html",
+		"/tmp/sublime-sftp-browse-1423679984/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signup.html",
+		"/tmp/sublime-sftp-browse-1423682883/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/sessions/session-controllers.js",
+		"/tmp/sublime-sftp-browse-1423681118/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/layout-noaccount.html",
+		"/tmp/sublime-sftp-browse-1423681048/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/index.html",
+		"/tmp/sublime-sftp-browse-1423680967/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signin.html",
+		"/tmp/sublime-sftp-browse-1423680938/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/login.html",
+		"/opt/google/chrome/google-chrome",
+		"/tmp/sublime-sftp-browse-1423603956/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/shareme/views/content-cards/link-card-small.html",
+		"/tmp/sublime-sftp-browse-1423602691/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/users/directives.js",
+		"/tmp/sublime-sftp-browse-1423585486/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/layout.html",
+		"/tmp/sublime-sftp-browse-1423513635/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/messages.less",
+		"/tmp/sublime-sftp-browse-1423514081/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/global.less",
+		"/tmp/sublime-sftp-browse-1423517991/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/shareme.less",
+		"/tmp/sublime-sftp-browse-1423513887/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/showme.less",
+		"/tmp/sublime-sftp-browse-1423512942/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/elements/header.less",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/template.html",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/requirejs_config.js",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/bower.json",
+		"/tmp/sublime-sftp-browse-1423249861/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/index.html",
+		"/tmp/sublime-sftp-browse-1423249735/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/layout.html",
+		"/tmp/sublime-sftp-browse-1423249877/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signup.html",
+		"/tmp/sublime-sftp-browse-1423251152/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/signup.less",
+		"/tmp/sublime-sftp-browse-1423174853/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/layout.html",
+		"/tmp/sublime-sftp-browse-1423174886/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signup.html",
+		"/tmp/sublime-sftp-browse-1423174829/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/index.html",
+		"/tmp/sublime-sftp-browse-1423162621/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/messages/directives.js",
+		"/tmp/sublime-sftp-browse-1423162600/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/messages/states.js",
+		"/tmp/sublime-sftp-browse-1423162281/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/messages/controllers.js",
+		"/tmp/sublime-sftp-browse-1423162200/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/messages/views/list.html",
+		"/tmp/sublime-sftp-browse-1423159857/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/shareme/views/content-cards/link-card-small.html",
+		"/tmp/sublime-sftp-browse-1423159156/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/shareme.less",
+		"/tmp/sublime-sftp-browse-1423158857/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/shareme/views/content-cards/link-card-edit.html",
+		"/tmp/sublime-sftp-browse-1423159554/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/settings.less",
+		"/tmp/sublime-sftp-browse-1423159531/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/elements/activity-panel.less",
+		"/tmp/sublime-sftp-browse-1423159470/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/elements/bs-override.less",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/.gitignore",
+		"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/PartOne/OverView/index.html",
+		"/tmp/sublime-sftp-browse-1422890962/homeIp-josh_MonimusDevbox_ShowdMe/home/josh/showdme/showdme_env.properties",
+		"/home/josh/.config/sublime-text-3/Packages/User/sftp_servers/homeIp-josh_MonimusDevbox_ShowdMe",
+		"/home/josh/Documents/WebDevelopment/Node/functional-javascript/functions/countWorks.js",
+		"/home/josh/Documents/WebDevelopment/Node/functional-javascript/run.js",
+		"/home/josh/Documents/WebDevelopment/Node/functional-javascript/functions/checkUsers.js",
+		"/home/josh/Documents/WebDevelopment/Node/functional-javascript/functions/getShortMessage.js",
+		"/home/josh/Documents/WebDevelopment/Node/functional-javascript/functions/doubleAll.js",
+		"/home/josh/Documents/WebDevelopment/Node/functional-javascript/functions/uppercase.js",
+		"/home/josh/Documents/WebDevelopment/Node/functional-javascript/functions/repeatFunction.js",
+		"/home/josh/Documents/WebDevelopment/Node/stream-adventure/program4.js",
+		"/home/josh/Documents/WebDevelopment/Node/stream-adventure/sampleStd.js",
+		"/tmp/sublime-sftp-browse-1422654530/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/shareme/views/content-cards/link-card-edit.html",
+		"/tmp/sublime-sftp-browse-1422640908/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/sessions/views/session.html",
+		"/tmp/sublime-sftp-browse-1422640818/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/sessions/views/session.html",
+		"/tmp/sublime-sftp-browse-1422585711/pilartan_PilarTanMd/home1/pilartan/public_html/wp-content/themes/pilartan/author.php",
+		"/tmp/sublime-sftp-browse-1422586197/pilartan_PilarTanMd/home1/pilartan/public_html/wp-content/themes/pilartan/style.css",
+		"/tmp/sublime-sftp-browse-1422585598/pilartan_PilarTanMd/home1/pilartan/public_html/wp-content/themes/pilartan/feedback.php",
+		"/tmp/sublime-sftp-browse-1422585633/pilartan_PilarTanMd/home1/pilartan/public_html/wp-content/themes/pilartan/front-page.php",
+		"/tmp/sublime-sftp-browse-1422570065/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/sessions/views/session.html",
+		"/tmp/sublime-sftp-browse-1422569949/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/showme.less",
+		"/tmp/sublime-sftp-browse-1422567039/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/profile.less",
+		"/tmp/sublime-sftp-browse-1422565983/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/elements/select2-override.less",
+		"/tmp/sublime-sftp-browse-1422559918/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/variables.less",
+		"/tmp/sublime-sftp-browse-1422559900/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/global.less",
+		"/tmp/sublime-sftp-browse-1422559941/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/styleguide.md",
+		"/tmp/sublime-sftp-browse-1422560236/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/elements/header.less",
+		"/tmp/sublime-sftp-browse-1422559660/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/showme.less",
+		"/tmp/sublime-sftp-browse-1422546310/pilartan_PilarTanMd/home1/pilartan/public_html/wp-content/themes/pilartan/front-page.php",
+		"/tmp/sublime-sftp-browse-1422546338/pilartan_PilarTanMd/home1/pilartan/public_html/wp-content/themes/pilartan/header.php",
+		"/tmp/sublime-sftp-browse-1422480444/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/system-management/group-states.js",
+		"/tmp/sublime-sftp-browse-1422483764/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/helpme/views/sidebar-partial.html",
+		"/tmp/sublime-sftp-browse-1422477311/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signup-complete-2.html",
+		"/tmp/sublime-sftp-browse-1422477276/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/signup-complete.html",
+		"/tmp/sublime-sftp-browse-1422477250/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/views/registration.html",
+		"/tmp/sublime-sftp-browse-1422476509/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/showdme_env_office.properties",
+		"/tmp/sublime-sftp-browse-1422476190/office-josh_MonimusDevbox_ShowdMe/home/josh/showdme/showdme_env.properties",
+		"/tmp/sublime-sftp-browse-1422394775/homeIp-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/styles/pages/admin-tools.less",
+		"/tmp/sublime-sftp-browse-1422382400/homeIp-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/learning-paths/views/learning-path.html",
+		"/tmp/sublime-sftp-browse-1422383013/homeIp-josh_MonimusDevbox_ShowdMe/home/josh/showdme/public/learning-paths/views/welcome-screen.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers/element.js",
+			"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers/elememnt.js",
+			"/home/josh/Documents/WebDevelopment/Labs-Training/Angular/AngularThinksterIO/app/scripts/controllers",
+			"filters.js",
+			"",
+			"invoicectrl.js",
+			"",
+			"footer.php",
+			"",
+			"ArticleView.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"a",
+			"\"",
+			"'",
+			"connect",
+			"serve",
+			"build",
+			"Concat",
+			"this",
+			"Last ",
+			"displayName",
+			"5",
+			"$scope.users",
+			"avatar",
+			"border-radius",
+			"chat-user-ava",
+			"user-img",
+			"-14",
+			"-147",
+			"footer",
+			"message.name",
+			"card",
+			"background-color",
+			"link",
+			"192.168.1.20",
+			");",
+			"}));\n",
+			"function",
+			"select2-search-choice-close",
+			"d58ce5",
+			"btn-t",
+			"characters",
+			"Location",
+			"192.168.1.20",
+			"skill",
+			"tags",
+			"192.168.11.197",
+			"requestForm",
+			"span",
+			"background-size: cover;",
+			"post navigation",
+			"img",
+			"border",
+			"192.168.1.20",
+			"54.164.159.81",
+			"192.168.122.1",
+			"192.168.1.15",
+			"192.168.11.197",
+			"button",
+			"container-fluid",
+			"pt-auth",
+			"pt-la",
+			"date",
+			"pt-news",
+			"author",
+			"}\n",
+			"hr",
+			"author",
+			"nav",
+			"filter",
+			"html",
+			"com",
+			"this",
+			"BAC",
+			"beer",
+			"for(var i = 0; i < beer.length; i++){\n			$('#beer1').append('<option value=\"'+beer[i].attributes.alcoholContent+'\"\">'+beer[i].attributes.name+' - '+beer[i].attributes.alcoholContent+' -Ounces:'+beer[i].attributes.ounces+' -Time Consumption:'+beer[i].attributes.timeConsumption+'</option>');\n			$('#beer2').append('<option value=\"'+beer[i].attributes.alcoholContent+'\"\">'+beer[i].attributes.name+' - '+beer[i].attributes.alcoholContent+' -Ounces:'+beer[i].attributes.ounces+' -Time Consumption:'+beer[i].attributes.timeConsumption+'</option>');\n			$('#beer3').append('<option value=\"'+beer[i].attributes.alcoholContent+'\"\">'+beer[i].attributes.name+' - '+beer[i].attributes.alcoholContent+' -Ounces:'+beer[i].attributes.ounces+' -Time Consumption:'+beer[i].attributes.timeConsumption+'</option>');\n		}",
+			"Consumption",
+			"age",
+			"tojson",
+			"tojsom",
+			"click",
+			"clieck",
+			"date",
+			"comparator",
+			"onactive",
+			"TodoFilter",
+			"ToDoFilter",
+			"trigger",
+			"9",
+			"h5",
+			"h3",
+			"\">\n",
+			"page",
+			"#page",
+			"John",
+			"son",
+			"spon",
+			"&",
+			"body",
+			"DateFinish",
+			"joshv_JayVee",
+			"Jayvee",
+			"\"",
+			"timezone",
+			"Range",
+			"range",
+			"error_reporting",
+			"sessionCount",
+			"class",
+			"		}",
+			"}\n",
+			"luis",
+			"error_repo",
+			"li",
+			"Bootstrap",
+			"Boostrap",
+			"el",
+			"Cannon",
+			"join"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'",
+			"$scope",
+			"192.168.1.13",
+			"192.168.11.197",
+			"192.168.1.20",
+			"webdevFeedback",
+			"192.168.11.197",
+			"192.168.1.20",
+			"192.168.1.15",
+			"192.168.122.1",
+			"192.168.1.15",
+			"container",
+			"window",
+			"hl",
+			"wine",
+			"hl",
+			"wine",
+			"h4",
+			"h5",
+			"&amp;",
+			"'",
+			"Boilerplate"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pulseApp.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# !/bin/bash",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "DesktopBash.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"C:\\Users\\Josh\\AppData\\Local\\Temp\\3b8a9ad1-c38e-46d0-a271-65b5e44b88a3\\home\\student\\jjv8\\Projects\\JayVee-v3\\public\\index.html"
+			],
+			[
+				"app",
+				"C:\\Users\\Josh\\AppData\\Local\\Temp\\3b8a9ad1-c38e-46d0-a271-65b5e44b88a3\\home\\student\\jjv8\\Projects\\JayVee-v3\\public\\js\\app.js"
+			],
+			[
+				"in",
+				"C:\\Users\\Josh\\AppData\\Local\\Temp\\3b8a9ad1-c38e-46d0-a271-65b5e44b88a3\\home\\student\\jjv8\\Projects\\JayVee-v3\\public\\index.html"
+			],
+			[
+				"",
+				"C:\\Users\\Josh\\AppData\\Local\\Temp\\3b8a9ad1-c38e-46d0-a271-65b5e44b88a3\\home\\student\\jjv8\\Projects\\JayVee-v3\\public\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/media/josh/Windows8_OS/Users/Josh/Documents/JayVee/CompSci/SublimeProjects/Project-PTWP.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 285.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
